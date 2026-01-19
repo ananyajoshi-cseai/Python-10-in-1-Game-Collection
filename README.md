@@ -2,6 +2,8 @@
 
 A modular collection of 10 interactive command-line games built with Python. This project demonstrates modular programming, file handling, and Python logic implementation by organizing multiple distinct game scripts into a single, cohesive package controlled by a central menu system.
 
+![games_demo](https://github.com/user-attachments/assets/dfbe417b-3175-4190-b52a-b05eff1ba715)
+
 ## 📂 Project Structure
 
 Unlike simple script dumps, this project is organized as a Python package:
@@ -14,6 +16,8 @@ Python-10-in-1-Game-Collection/
 │   ├── pet.py
 │   └── ... (8 other games)
 ├── main.py                 # Central entry point (Run this file!)
+├── Report/
+│   └── Project_file_ananya-joshi.pdf
 └── README.md
 ```
 
