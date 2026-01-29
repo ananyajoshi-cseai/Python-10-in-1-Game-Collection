@@ -29,7 +29,7 @@ Python-10-in-1-Game-Collection/
 4. **Magic 8-Ball**: Ask a question and receive a fortune.
 5. **Password Generator**: Generates secure passwords based on user preferences.
 6. **Pet**: A virtual pet game where you feed and play with your pet.
-7. **Quiz / FLAMES**: A fun compatibility or trivia challenge.
+7. **Quiz**: A fun compatibility or trivia challenge.
 8. **Random Number Guesser**: Try to guess the number the computer is thinking of.
 9. **Rock Paper Scissors**: The classic hand game against the CPU.
 10. **Word Scramble**: Unscramble the jumbled words before time runs out.
