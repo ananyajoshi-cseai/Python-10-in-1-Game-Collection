@@ -3,16 +3,16 @@ import random
 def play():
     def main():
         # --- 1. Initialize Pet Stats ---
-        # Set the starting values for the pet's needs.
+        # Set the starting values for the pet's needs!
         hunger = 5
         happiness = 5
         energy = 5
     
-        # Set the boundaries
+        # Set the boundaries.
         MAX_STAT = 20
         MIN_STAT = 0
         
-        # How much time passes per loop
+        # How much time passes per loop?
         TIME_TICK = 1
     
         print("--- Welcome to Pet Simulator! ---")
@@ -21,7 +21,7 @@ def play():
         print("-" * 30)
     
         # --- 2. Main Game Loop ---
-        # The game continues as long as this loop runs.
+        # The game continues as long as this loop runs!
         while True:
             
             # --- 3. Check Game Over Condition ---
