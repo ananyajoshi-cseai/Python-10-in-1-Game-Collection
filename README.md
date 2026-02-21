@@ -62,8 +62,9 @@ You do not need to run individual files. The `main.py` file acts as a central hu
 ## 👤 Author
 
 **Ananya Joshi**
-* B.Tech in Computer Science and Artificial Intelligence (CSE AI)
-* Indira Gandhi Delhi Technical University for Women (IGDTUW)
+* **LinkedIn:** [ananya-joshi-cseai](https://www.linkedin.com/in/ananya-joshi-cseai/)
+* **Course:** B.Tech in Computer Science and Artificial Intelligence (CSE AI)
+* **University:** Indira Gandhi Delhi Technical University for Women (IGDTUW)
 
 ## 📄 License
 
