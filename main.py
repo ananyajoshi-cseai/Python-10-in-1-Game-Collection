@@ -1,7 +1,7 @@
 import sys
 import os
 
-# Import modules from the games folder
+# Import modules from the games folder.
 from games import (
     blackjack,
     dice_rolling,
@@ -16,7 +16,7 @@ from games import (
 )
 
 def clear_screen():
-    # Clears the console screen for a cleaner look
+    # Clears the console screen for a cleaner look.
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def main_menu():
@@ -69,7 +69,7 @@ def main_menu():
                 input("\nInvalid selection. Press Enter to try again...")
                 continue
             
-            # Pause after game finishes before showing menu again
+            # Pause after game finishes before showing menu again.
             input("\nPress Enter to return to the main menu...")
 
         except AttributeError:
