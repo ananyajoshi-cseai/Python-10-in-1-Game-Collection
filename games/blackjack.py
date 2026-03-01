@@ -1,4 +1,4 @@
-# ------------ Importing modules ---------------#
+# ------------ Importing required modules ---------------#
 import random as rn
 def play():
     # ------------ Welcome Message and rules for the game --------------#
