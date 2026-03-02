@@ -62,10 +62,9 @@ You do not need to run individual files. The `main.py` file acts as a central hu
 ## 👤 Author
 
 **Ananya Joshi**
-* **LinkedIn:** [ananya-joshi-cseai](https://www.linkedin.com/in/ananya-joshi-cseai/)
 * **Course:** B.Tech in Computer Science and Artificial Intelligence (CSE AI)
 * **University:** Indira Gandhi Delhi Technical University for Women (IGDTUW)
-
+* **LinkedIn:** [ananya-joshi-cseai](https://www.linkedin.com/in/ananya-joshi-cseai/)
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
