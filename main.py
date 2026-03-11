@@ -1,7 +1,7 @@
 import sys
 import os
 
-# Import modules from the games folder.
+# Import modules from games folder.
 from games import (
     blackjack,
     dice_rolling,
