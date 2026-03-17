@@ -59,12 +59,14 @@ You do not need to run individual files. The `main.py` file acts as a central hu
 * Python 3.x
 * No external libraries required (uses standard Python libraries like `random`, `os`, `sys`, `time`).
 
-## 👤 Author
+## 👩‍💻 About the Developer
 
-**Ananya Joshi**
-* **Course:** B.Tech in Computer Science and Artificial Intelligence (CSE AI)
-* **University:** Indira Gandhi Delhi Technical University for Women (IGDTUW)
+I am **Ananya Joshi**, a B.Tech student in **Computer Science and Artificial Intelligence** at **Indira Gandhi Delhi Technical University for Women (IGDTUW)**. I enjoy building tools that bridge the gap between complex data and user-friendly interfaces.
+
 * **LinkedIn:** [ananya-joshi-cseai](https://www.linkedin.com/in/ananya-joshi-cseai/)
+* **GitHub:** [@ananyajoshi-cseai](https://github.com/ananyajoshi-cseai)
+* **Other Projects:** [After-Feel](https://github.com/ananyajoshi-cseai/after-feel) (AI Poetry Portfolio) and [CareerFlow AI](https://github.com/ananyajoshi-cseai/CareerFlow-AI).
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
