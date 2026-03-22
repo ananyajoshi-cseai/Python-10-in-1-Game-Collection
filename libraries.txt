@@ -1,5 +1,6 @@
-The required libraries are
+The required libraries for the game are -
 1. time
 2. random
 3. sys
 4. os
+These are the standard libraries and are listed here for refrence.
