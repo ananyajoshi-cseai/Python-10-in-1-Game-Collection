@@ -1,6 +1,6 @@
 # Python 10-in-1 Game Collection 🎮
 
-It is a modular collection of 10 interactive command-line games built with Python. This project demonstrates modular programming, file handling, and Python logic implementation by organizing multiple distinct game scripts into a single, cohesive package controlled by a central menu system.
+It is a modular collection of 10 interactive command-line games built with Python! This project demonstrates modular programming, file handling, and Python logic implementation by organizing multiple distinct game scripts into a single, cohesive package controlled by a central menu system.
 ## 🛠️ Live Demo
 
 ![games_demo](https://github.com/user-attachments/assets/dfbe417b-3175-4190-b52a-b05eff1ba715)
