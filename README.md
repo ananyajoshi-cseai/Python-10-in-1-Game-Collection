@@ -25,7 +25,7 @@ Python-10-in-1-Game-Collection/
 ## 🕹️ Included Games
 
 1. **Blackjack**: A classic card game against a computerized dealer.
-2. **Dice Rolling Simulator**: Simulates rolling various types of dice.
+2. **Dice Rolling Simulator**: Simulates rolling various types of dice with different faces.
 3. **Mad Libs Generator**: A word game where you fill in the blanks to create a funny story.
 4. **Magic 8-Ball**: Ask a question and receive a fortune.
 5. **Password Generator**: Generates secure passwords based on user preferences.
