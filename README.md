@@ -18,7 +18,7 @@ Python-10-in-1-Game-Collection/
 │   └── ... (8 other games)
 ├── main.py                 # Central entry point (Run this file)
 ├── Report/
-│   └── Project_file_ananya-joshi.pdf
+│   └── Report_file_ananya-joshi.pdf
 └── README.md
 ```
 
