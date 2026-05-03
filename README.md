@@ -12,7 +12,7 @@ Unlike simple script dumps, this project is organized as a Python package:
 ```text
 Python-10-in-1-Game-Collection/
 ├── games/                  # Package containing all game modules
-│   ├── __init__.py         # Makes the directory a Python package
+│   ├── __init__.py         
 │   ├── blackjack.py
 │   ├── pet.py
 │   └── ... (8 other games)
