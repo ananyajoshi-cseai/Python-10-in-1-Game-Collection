@@ -69,7 +69,7 @@ def main_menu():
                 input("\nInvalid selection. Press Enter to try again...")
                 continue
             
-            # Pause for a while after game finishes before showing menu again.
+            # Pause for a while after game finishes before showing menu again for clarity.
             input("\nPress Enter to return to the main menu...")
 
         except AttributeError:
