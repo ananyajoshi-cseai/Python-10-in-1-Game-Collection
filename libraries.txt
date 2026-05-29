@@ -3,4 +3,3 @@ The required libraries for the game are -
 2. random
 3. sys
 4. os
-These are the standard libraries and are listed here for refrence.
