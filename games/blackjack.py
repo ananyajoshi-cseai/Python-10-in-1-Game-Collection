@@ -1,7 +1,7 @@
 # ------------ Importing required modules ---------------#
 import random as rn
 def play():
-    # ------------ Welcome Message and rules for the game --------------#
+    # ------------ Welcome Message and rules for the game! --------------#
     def intro():
         print("WELCOME TO THE GAME OF BLACKJACK\n")
         print("Below are the mentioned rules. New players are advised to go through the rules before proceding.\n")
