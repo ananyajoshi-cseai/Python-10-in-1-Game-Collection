@@ -19,7 +19,7 @@ Python-10-in-1-Game-Collection/
 │   ├── blackjack.py
 │   ├── pet.py
 │   └── ... (8 other games)
-├── main.py                 # Central entry point (Run this file)
+├── main.py                 # Central entry point
 ├── Report/
 │   └── Report_file_ananya-joshi.pdf
 └── README.md
