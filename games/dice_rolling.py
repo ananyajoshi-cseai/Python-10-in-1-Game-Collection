@@ -6,7 +6,7 @@ def play():
     """
     print("\n--- 9. Enhanced Dice Rolling Simulator ---")
     
-    # --- 1. Get Number of Dice ---
+    # --- 1. Get the Number of Dice ---
     while True:
         num_dice_input = input("How many dice do you want to roll (e.g., 2)? ").strip()
         
@@ -17,7 +17,7 @@ def play():
             print("Invalid input. Please enter a positive number.")
             continue
 
-    # --- 2. Get Number of Sides ---
+    # --- 2. Get the Number of Sides ---
     while True:
         num_sides_input = input("How many sides should the dice have (e.g., 6, 10, 20)? ").strip()
         
