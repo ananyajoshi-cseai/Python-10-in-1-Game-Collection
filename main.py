@@ -16,7 +16,7 @@ from games import (
 )
 
 def clear_screen():
-    # Clears the console screen for a cleaner look.
+    # Clears the console screen for a cleaner look
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def main_menu():
