@@ -68,7 +68,7 @@ I am **Ananya Joshi**, a B.Tech student in **Computer Science and Artificial Int
 
 * **LinkedIn:** [ananya-joshi-cseai](https://www.linkedin.com/in/ananya-joshi-cseai/)
 * **GitHub:** [@ananyajoshi-cseai](https://github.com/ananyajoshi-cseai)
-* **Other Projects:** [After-Feel](https://github.com/ananyajoshi-cseai/after-feel) (AI Poetry Portfolio) and [CareerFlow AI](https://github.com/ananyajoshi-cseai/CareerFlow-AI).
+* **Other Projects:** [After-Feel](https://github.com/ananyajoshi-cseai/after-feel) (AI Poetry Portfolio) and [CareerFlow AI](https://github.com/ananyajoshi-cseai/CareerFlow-AI)
 
 ## 📄 License
 
