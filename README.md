@@ -60,7 +60,7 @@ You do not need to run individual files. The `main.py` file acts as a central hu
 ## 🛠️ Requirements
 
 * Python 3.x
-* No external libraries required (uses standard Python libraries like `random`, `os`, `sys`, `time`).
+* No external libraries required (uses standard Python libraries like `random`, `os`, `sys`, `time`)
 
 ## 👩‍💻 About the Developer
 
