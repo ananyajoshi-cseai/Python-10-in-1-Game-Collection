@@ -72,4 +72,4 @@ I am **Ananya Joshi**, a B.Tech student in **Computer Science and Artificial Int
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
